@@ -1,3 +1,6 @@
+// create a program where check palindrome number without reverse
+
+
 import java.util.Scanner;
 
 public class PalindromeNumber {
